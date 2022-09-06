@@ -46,3 +46,6 @@ plt.figure(figsize=(10,5))
 plt.title('REG PLOT')
 sns.regplot(x="humidity", y="temperature", data=weather)
 plt.show()
+
+
+#taken from a class code, and edited to be current
